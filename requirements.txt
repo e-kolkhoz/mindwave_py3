@@ -1,0 +1,8 @@
+# for dumping
+pyserial
+
+# for jupyter visualization
+jupyter
+matplotlib
+numpy
+scipy
